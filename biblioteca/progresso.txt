@@ -1,0 +1,21 @@
+Parte do criar categoria ////pronta
+
+Fazer com que o usuário consiga cadastrar ////pronta
+
+Arrumar o erro quando for editar uma categoria ////pronta
+
+Criar tela de login ////pronta
+
+Criar um form pra validar o login na tela do login eu acho ////pronta
+
+Mudar a aparência do menu? ////pronta
+
+Fazer a parte de excluir produtos ////pronta
+
+Fazer com que o produtos-criar mostre os livros na tela //// pronta
+
+Fazer com que o produtos-criar não crie uma entrada em branco ////pronta
+
+Fazer a parte de editar produtos ////pronta
+
+FALTANDO ---------------------------------------------------------------------
